@@ -1,10 +1,10 @@
-# 🚀 Deploy Node.js App to AWS EC2 (Amazon Linux)
+#  Deploy Node.js App to AWS EC2 (Amazon Linux)
 
 This guide explains how to **set up a Node.js app**, **configure environment variables**, **create an RDS database**, and **deploy** your app on **AWS EC2 (Amazon Linux 2)** using **User Data**.
 
 ---
 
-## 📂 Step 1: Set Up the App Locally
+##  Step 1: Set Up the App Locally
 
 1. **Install Node.js and npm**
 
